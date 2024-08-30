@@ -37,7 +37,7 @@
     "stylelint": "^15.10.1",
     "typescript": "^2.7",
     "url-loader": "^4.1.1",
-    "webpack": "^5.0.0"
+    "webpack": "^5.94.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.0",
